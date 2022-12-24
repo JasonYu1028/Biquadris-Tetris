@@ -7,4 +7,5 @@ The implementation of this project maximizes and structures around the benefits 
 
 Due to policy 71 at the University of Waterloo, I'm not permitted to upload the whole codes in opence source, but you could find my design and documentation for an overview and check for details in words.
 
-You may want to find the demo of playing this game here:
+You may want to find a simple demo of playing this game here (there are more functionalities than what it shows):
+https://drive.google.com/file/d/1nuSFI78-D6A9f41jYt0DZvNV72uDa-MD/view?usp=share_link
